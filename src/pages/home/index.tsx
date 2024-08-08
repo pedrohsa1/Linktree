@@ -18,15 +18,15 @@ export function Home(){
         </section>
 
         <footer className="flex justify-center gap-3 my-4">
-          <Social url="https://facebook.com/sujeitoprogramador">
+          <Social url="https://facebook.com/pedro.henriquesouzaarcanjo">
             <FaFacebook size={35} color="#FFF" />
           </Social>
 
-          <Social url="https://facebook.com/sujeitoprogramador">
+          <Social url="https://facebook.com/pedro.henriquesouzaarcanjo">
             <FaYoutube size={35} color="#FFF" />
           </Social>
 
-          <Social url="https://instagram.com/sujeitoprogramador">
+          <Social url="https://instagram.com/pedrohsa1">
             <FaInstagram size={35} color="#FFF" />
           </Social>
         </footer>
